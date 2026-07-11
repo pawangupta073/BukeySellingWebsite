@@ -1,0 +1,54 @@
+# Query: stree
+# ContextLines: 1
+
+15 results - 2 files
+
+package-lock.json:
+  1329      },
+  1330:     "node_modules/@types/estree": {
+  1331        "version": "1.0.6",
+  1332:       "resolved": "https://registry.npmjs.org/@types/estree/-/estree-1.0.6.tgz",
+  1333        "integrity": "sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==",
+
+  1428          "@typescript-eslint/types": "8.8.1",
+  1429:         "@typescript-eslint/typescript-estree": "8.8.1",
+  1430          "@typescript-eslint/visitor-keys": "8.8.1",
+
+  1471        "dependencies": {
+  1472:         "@typescript-eslint/typescript-estree": "8.8.1",
+  1473          "@typescript-eslint/utils": "8.8.1",
+
+  1502      },
+  1503:     "node_modules/@typescript-eslint/typescript-estree": {
+  1504        "version": "8.8.1",
+  1505:       "resolved": "https://registry.npmjs.org/@typescript-eslint/typescript-estree/-/typescript-estree-8.8.1.tgz",
+  1506        "integrity": "sha512-A5d1R9p+X+1js4JogdNilDuuq+EHZdsH9MjTVxXOdVFfTJXunKJR/v+fNNyO4TnoOn5HqobzfRlc70NC6HTcdg==",
+
+  1530      },
+  1531:     "node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion": {
+  1532        "version": "2.0.1",
+
+  1539      },
+  1540:     "node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch": {
+  1541        "version": "9.0.5",
+
+  1554      },
+  1555:     "node_modules/@typescript-eslint/typescript-estree/node_modules/semver": {
+  1556        "version": "7.6.3",
+
+  1575          "@typescript-eslint/types": "8.8.1",
+  1576:         "@typescript-eslint/typescript-estree": "8.8.1"
+  1577        },
+
+  2127          "@humanwhocodes/retry": "^0.3.1",
+  2128:         "@types/estree": "^1.0.6",
+  2129          "@types/json-schema": "^7.0.15",
+
+  3532        "dependencies": {
+  3533:         "@types/estree": "1.0.6"
+  3534        },
+
+src\config\site.config.ts:
+   9      email: 'hello@bloombasket.com',
+  10:     address: '123 Flower Street, Garden City, NY 10001',
+  11      whatsapp: '1234567890', // without + sign
