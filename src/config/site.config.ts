@@ -5,8 +5,8 @@ export const siteConfig = {
   description: 'Make every moment special with our premium flower bouquets. Same-day delivery available.',
 
   contact: {
-    phone: '+1 234 567 8900',
-    email: 'hello@bloombasket.com',
+    phone: '+91 6289132580',
+    email: 'pawangupta7094@gmail.com',
     address: '123 Flower Street, Garden City, NY 10001',
     whatsapp: '1234567890', // without + sign
     businessHours: 'Mon-Sat: 9:00 AM - 8:00 PM, Sunday: 10:00 AM - 6:00 PM',
@@ -15,7 +15,7 @@ export const siteConfig = {
   social: {
     instagram: 'https://instagram.com/bloombasket',
     facebook: 'https://facebook.com/bloombasket',
-    whatsapp: 'https://wa.me/1234567890',
+    whatsapp: 'https://wa.me/916289132580',
   },
 
   seo: {
